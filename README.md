@@ -57,7 +57,7 @@ The project follows a modular structure to ensure maintainability and separation
 ### Installation
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/your-username/assignment2.git
+    git clone https://github.com/EmilyMyaskovski/assignment2.git
     ```
 2.  Open the project in Android Studio.
 3.  Add your Google Maps API Key to the project.
